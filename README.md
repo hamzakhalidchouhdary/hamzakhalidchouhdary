@@ -4,7 +4,7 @@
 
 ## A passionate web services developer from Pakistan
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
+- 🔭 I’m A ROR and Node Js developer
 - 🌱 I’m currently learning a lot new skills
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Add new projects to my profile
