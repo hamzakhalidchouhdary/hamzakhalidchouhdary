@@ -4,7 +4,7 @@
 
 ## A passionate web services developer from Pakistan
 
-- 🔭 I’m Node Js developer at Care Axiom
+- 🔭 I’m Node Js developer at Caremerge
 - 🌱 I’m currently learning a lot new skills
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Add new projects to my profile
