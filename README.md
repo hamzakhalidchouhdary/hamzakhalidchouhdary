@@ -4,8 +4,8 @@
 
 ## A passionate web services developer from Pakistan
 
-- 🔭 I’m Node Js developer at Caremerge
-- 🌱 I’m currently learning a lot new skills
+- 🔭 I’m working as Associate Software Engineer at Caremerge
+- 🌱 I’m currently learning software design principals
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Add new projects to my profile
 - ⚡ Fun fact: I love to cook and reading books
