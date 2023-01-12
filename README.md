@@ -2,7 +2,7 @@
 
 ## A passionate web services developer from Pakistan
 
-- Associate Software Engineer at CareAxiom
+- Associate Software Engineer at CareAxiom (A subsidiary of Caremerge)
 
 <br />
 
