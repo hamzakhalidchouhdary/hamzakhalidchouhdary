@@ -2,7 +2,7 @@
 
 ## A passionate web services developer from Pakistan
 
-- Associate Software Engineer at CareAxiom (A subsidiary of Caremerge)
+- Associate Software Engineer at [careAxiom]
 
 <br />
 
@@ -36,3 +36,4 @@
 [twitter]: https://twitter.com/hamzakhalidch_
 [instagram]: https://instagram.com/hamzakhalidchouhdary
 [facebook]: https://facebook.com/hamzakhalidchouhdary
+[CareAxiom]: https://www.linkedin.com/company/careaxiomicon
