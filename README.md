@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Hamza Khalid Chouhdary
 
-Aspiring to transform ideas into elegant and efficient digital solutions, I'm a passionate software engineer with a focus on web development. My expertise spans a range of technologies, including **NodeJs**, **ReactJs**, **AngularJs**, **Ruby on Rails** (RoR), and **PHP**. With a blend of creativity and technical acumen, I thrive on crafting user-centric applications that deliver seamless experiences.
+Aspiring to transform ideas into elegant and efficient digital solutions, I'm a passionate software engineer with a focus on web development. Currently, I'm thrilled to be a part of the team at **[CareAxiom] (aka CareMerge)**, where I contribute my expertise to create cutting-edge solutions. My expertise spans a range of technologies, including **NodeJs**, **ReactJs**, **AngularJs**, **Ruby on Rails** (RoR), and **PHP**. With a blend of creativity and technical acumen, I thrive on crafting user-centric applications that deliver seamless experiences.
 
 ## What I Do
 
@@ -16,8 +16,12 @@ Aspiring to transform ideas into elegant and efficient digital solutions, I'm a 
 
 ## Get in Touch
 
-🌐 [LinkedIn](https://www.linkedin.com/in/hamzakhalidchouhdary)
-🐦 [Twitter aka X](https://twitter.com/hamzakhalidch_)
+🌐 [LinkedIn]
+🐦 [Twitter] (aka X)
 📧 hkchouhdary@gmail.com
 
 Let's connect and collaborate to turn ideas into reality! Feel free to explore my repositories, and don't hesitate to reach out if you're interested in working together or if you simply want to chat about tech.
+
+[linkedin]: https://linkedin.com/in/hamzakhalidchouhdary
+[twitter]: https://twitter.com/hamzakhalidch_
+[careAxiom]: https://www.linkedin.com/company/careaxiomicon
