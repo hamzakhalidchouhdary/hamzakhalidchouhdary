@@ -1,39 +1,23 @@
-### Hi there, I'm Hamza Khalid Chouhdary [linkedin]
+# Hi there! 👋 I'm Hamza Khalid Chouhdary
 
-## A passionate web services developer from Pakistan
+Aspiring to transform ideas into elegant and efficient digital solutions, I'm a passionate software engineer with a focus on web development. My expertise spans a range of technologies, including **NodeJs**, **ReactJs**, **AngularJs**, **Ruby on Rails** (RoR), and **PHP**. With a blend of creativity and technical acumen, I thrive on crafting user-centric applications that deliver seamless experiences.
 
-- Associate Software Engineer at [careAxiom]
+## What I Do
 
-<br />
+- 🚀 **Full-stack Development**: I'm well-versed in building dynamic and responsive web applications, both on the frontend and backend. My toolkit includes the power of **ReactJs**, **AngularJs**, and **NodeJs**, allowing me to create performant and engaging user interfaces while ensuring robust server-side functionality.
+  
+- 🧪 **Test-Driven Development (TDD)**: I'm a firm believer in writing tests before the code. With TDD, I ensure that my applications are not only functional but also maintainable and reliable. Writing tests from the outset provides a safety net for future changes and enhancements.
 
-### Languages and Tools:
+- 🌟 **User-Centric Design**: I believe that great software starts with a deep understanding of users' needs. I take pride in creating intuitive and visually appealing UIs that enhance user satisfaction and usability.
 
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
-<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
+- 🛠️ **Versatile Skills**: From the flexibility of **ReactJs** to the convention-over-configuration philosophy of **Ruby on Rails**, I've got experience working with diverse frameworks and languages. Whether it's crafting APIs, optimizing database queries, or designing complex front-end architectures, I've got it covered.
 
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Cpp" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
-<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
-<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
+- 📚 **Lifelong Learner**: The tech landscape is ever-evolving, and I thrive on keeping up with the latest trends and tools. This ensures that my solutions are not only current but also poised to adapt and scale.
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="Rails" width="26px" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/ruby.svg" />
+## Get in Touch
 
-<br />
+🌐 [LinkedIn](https://www.linkedin.com/in/hamzakhalidchouhdary)
+🐦 [Twitter aka X](https://twitter.com/hamzakhalidch_)
+📧 hkchouhdary@gmail.com
 
-### Connect with me:
-
-[<img align="left" alt="hamzakhalidchouhdary | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="hamzakhalidchouhdary | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="hamzakhalidchouhdary | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-
-<br />
-<br />
-
-[linkedin]: https://linkedin.com/in/hamzakhalidchouhdary
-[twitter]: https://twitter.com/hamzakhalidch_
-[instagram]: https://instagram.com/hamzakhalidchouhdary
-[facebook]: https://facebook.com/hamzakhalidchouhdary
-[CareAxiom]: https://www.linkedin.com/company/careaxiomicon
+Let's connect and collaborate to turn ideas into reality! Feel free to explore my repositories, and don't hesitate to reach out if you're interested in working together or if you simply want to chat about tech.
