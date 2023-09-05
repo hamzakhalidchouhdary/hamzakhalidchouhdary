@@ -4,7 +4,7 @@ Aspiring to transform ideas into elegant and efficient digital solutions, I'm a 
 
 ## What I Do
 
-- 🚀 **Full-stack Development**: I'm well-versed in building dynamic and responsive web applications, both on the frontend and backend. My toolkit includes the power of **ReactJs**, **AngularJs**, and **NodeJs**, allowing me to create performant and engaging user interfaces while ensuring robust server-side functionality.
+- 🚀 **Full-stack Development**: I'm well-versed in building dynamic and responsive web applications, following clean code practices, both on the frontend and backend. My toolkit includes the power of **ReactJs**, **AngularJs**, and **NodeJs**, allowing me to create performant and engaging user interfaces while ensuring robust server-side functionality.
 
 - 🧪 **Test-Driven Development (TDD)**: I'm a firm believer in writing tests before the code. With TDD, I ensure that my applications are not only functional but also maintainable and reliable. Writing tests from the outset provides a safety net for future changes and enhancements.
 
