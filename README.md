@@ -20,6 +20,15 @@ Aspiring to transform ideas into elegant and efficient digital solutions, I'm a 
 
 - 📚 **Lifelong Learner**: The tech landscape is ever-evolving, and I thrive on keeping up with the latest trends and tools. This ensures that my solutions are not only current but also poised to adapt and scale.
 
+## Here Are some stats:
+
+<a href="https://github.com/hamzakhalidchouhdary/github-readme-stats" style="text-decoration: none !important;" onMouseOver="this.style.text-decoration='none'">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=hamzakhalidchouhdary&show_icons=true&include_all_commits=false&hide=issues,contribs&show=prs_merged_percentage&rank_icon=default" />
+</a>
+<a href="https://github.com/hamzakhalidchouhdary/convoychat">
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hamzakhalidchouhdary&layout=compact" />
+</a>
+
 ## Get in Touch
 
 🌐 [LinkedIn]
