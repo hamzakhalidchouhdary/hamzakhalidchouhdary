@@ -4,9 +4,9 @@ I am a dedicated full-stack engineer specializing in developing SaaS application
 
 ## What I Do
 
-- 🚀 **Full-stack Development**: I'm well-versed in building dynamic and responsive web applications, following clean code practices, both the frontend and backend. My toolkit includes the power of **ReactJs**, **AngularJs**, and **NodeJs**, allowing me to create attractive and engaging interfaces along with robust server-side development.
+- 🚀 **Full-stack Development**: I'm well-versed in building dynamic and responsive web applications, following clean code practices, both the frontend and backend. My toolkit includes the power of **ReactJs**, **AngularJs**, and **NodeJs**, allowing me to create attractive and engaging interfaces and robust server-side development.
 
-- 🧪 **Test-Driven Development (TDD)**: I'm a firm believer in writing tests before the code. With TDD, I ensure that my applications are not only functional but also testable and reliable. Writing tests from the outset provides a safety net for future changes and enhancements.
+- 🧪 **Test-Driven Development (TDD)**: I firmly believe in writing tests before the code. With TDD, I ensure that my applications are functional but also testable and reliable. Writing tests from the outset provides a safety net for future changes and enhancements.
 
 - 🌟 **User-Centric Design**: I believe that great software starts with a deep understanding of users' needs. I take pride in creating intuitive and visually appealing UIs that enhance user engagement and satisfaction.
 
